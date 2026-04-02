@@ -244,11 +244,11 @@ body {
         width: 30%;  
         text-align: center;
         padding: 8px 5px;
-        font-size: 8px;
+        font-size: 10px;
     }
     .music {
-    width: 40px;
-    height: 40px;
+    width: 55px;
+    height: 55px;
     top: -15px;
     right: 10px;
 }
