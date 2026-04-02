@@ -235,7 +235,7 @@ body {
     .links {
         display: flex;
         transform: translateX(-5px);
-        justify-content: space-between;
+        justify-content: center;
         gap: 8px;
     }
 
