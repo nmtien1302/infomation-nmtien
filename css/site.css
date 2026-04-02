@@ -234,6 +234,7 @@ body {
     /* ===== LINKS (NẰM NGANG) ===== */
     .links {
         display: flex;
+        transform: translateX(-5px);
         justify-content: space-between;
         gap: 8px;
     }
